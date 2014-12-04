@@ -1,4 +1,7 @@
 
+# Appcessorize Framework
+
+
 Appcessorize is a simple library that lets users make their photos into phone cases. By integrating it in your application, your users will be able to get a real mobile case anywhere in the world. It is so easy: select images, add them to the case template, check out and **YOU ARE DONE!!**  
 
 **Current version:** 1.0
@@ -27,7 +30,7 @@ You're all set! See 'Integration' for steps to integrate into your app.
 
 4. That's it. You are now ready to integrate!
 
-Please report any issues here: [https://github.com/sincerely/shiplib-ios-framework/issues](https://github.com/sincerely/shiplib-ios-framework/issues)
+Please report any issues [here](https://github.com/amani-mohammad/appcessorize-framework/issues)
 
 
 ## Integration
@@ -47,5 +50,5 @@ If you're stuck or need a starting point, check out our sample app. //add link t
 
 ## Found a bug?
 
-You may report any issues with the framework or documentation [here](https://github.com/sincerely/shiplib-ios-framework/issues).
+You may report any issues with the framework or documentation [here](https://github.com/amani-mohammad/appcessorize-framework/issues)
 
