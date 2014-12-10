@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CF6DB487-6F67-4AB0-8E22-C23E2A554A1A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AppcessorizeDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7C7F701AEDA5F9817960EE80254B57E3AAB9F6BF</key>
+		<string>https://bitbucket.org/nweave/appcessorize-ios-framework.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>src/AppcessorizeDemo/AppcessorizeDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7C7F701AEDA5F9817960EE80254B57E3AAB9F6BF</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/nweave/appcessorize-ios-framework.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7C7F701AEDA5F9817960EE80254B57E3AAB9F6BF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7C7F701AEDA5F9817960EE80254B57E3AAB9F6BF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>appcessorize-ios-framework</string>
+		</dict>
+	</array>
+</dict>
+</plist>
